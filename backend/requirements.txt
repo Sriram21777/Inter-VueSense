@@ -1,0 +1,16 @@
+pymongo
+datetime
+mongo
+utils
+uuid
+requests
+pdfplumber
+nltk
+urllib3
+flask
+flask_cors
+librosa
+wave
+numpy
+click
+tensorflow==2.12.0
